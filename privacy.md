@@ -1,5 +1,7 @@
 Privacy Policy for SpendNest – Expense Tracker
+
 Effective Date: 8 September 2026
+
 SpendNest ("we", "our", or "the app") is an offline expense tracking application designed to help users manage their personal finances, track expenses, and create budgets.
 Your privacy is important to us. This Privacy Policy explains how information is handled when you use SpendNest.
 1. Information We Collect
